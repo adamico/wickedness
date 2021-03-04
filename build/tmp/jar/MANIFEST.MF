@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: wickedness
+Specification-Vendor: wickednesskc00l
+Specification-Version: 1
+Implementation-Title: wickedness
+Implementation-Version: 1.0
+Implementation-Vendor: wickednesskc00l
+Implementation-Timestamp: 2021-03-04T15:34:26+0100
+
